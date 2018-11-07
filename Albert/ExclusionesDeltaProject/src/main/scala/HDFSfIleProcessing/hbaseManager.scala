@@ -1,3 +1,4 @@
+package HDFSfIleProcessing
 
 import org.apache.hadoop.fs.Path
 import org.apache.hadoop.hbase.HBaseConfiguration

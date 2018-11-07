@@ -17,15 +17,18 @@ class kafkaProducerExcl {
   val sc1 = new SparkContext()
   val sqlContext = new SQLContext(sc1)
 
-  val putRawRDD = sqlContext.read.format("csv").option("header", "false").load("hdfs://master1.maticapartners.com:8020/user/albert/test_clean.csv").rdd
+  val sRDD = sqlContext.read.format("csv").option("header", "false").load("hdfs://master1.maticapartners.com:8020/user/albert/test_clean.csv").rdd
   // Array[org.apache.spark.sql.Row] = Array([7896545,0,1,0,1,0,1,1,0,2018-11-06], [0865456,1,0,1,1,0,1,0,1,2018-11-06])
 
   val TOPIC = "test"
 
-  for (row <- putRawRDD) {
-    val record = new ProducerRecord(TOPIC, "key", s"$row")
-    producer.send(record)
-  }
+  def send[T](message: T) = {
 
-  producer.close()
+    for (row <- sRDD) {
+      val record = new ProducerRecord(TOPIC, "key", s"$row")
+      producer.send(record)
+    }
+    producer.close()
+
+  }
 }
