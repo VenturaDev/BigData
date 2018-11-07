@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExclusionesDeltaProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ExclusionesDeltaProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root--exclusionesdeltaproject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root--exclusionesdeltaproject-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exclusionesdeltaproject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exclusionesdeltaproject-build.iml" />
     </modules>
   </component>
 </project>

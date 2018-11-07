@@ -17,3 +17,8 @@ libraryDependencies += "org.apache.spark" %% "spark-core" % "1.6.3" % "provided"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "1.6.3" % "provided"
 
 libraryDependencies += "org.apache.kafka" % "kafka_2.10" % "0.8.2.1"
+
+libraryDependencies += "org.apache.hbase" % "hbase-server" % "1.2.0-cdh5.14.2" % "provided"
+libraryDependencies += "org.apache.hbase" % "hbase-client" % "1.2.0-cdh5.14.2" % "provided"
+libraryDependencies += "org.apache.hbase" % "hbase-common" % "1.2.0-cdh5.14.2" % "provided"
+libraryDependencies += "org.apache.hbase" % "hbase-spark" % "1.2.0-cdh5.14.2"
