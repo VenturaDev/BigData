@@ -1,24 +1,22 @@
 package HDFSfIleProcessing
 
+
 import java.text.SimpleDateFormat
 
 import org.apache.spark.SparkContext
-import org.apache.spark.sql.SQLContext
+import org.apache.spark.sql.{DataFrame, SQLContext}
 import org.apache.spark.sql.functions.lit
 
+class HDFSProcessing(sc: SparkContext, sqlc: SQLContext, oldDF: DataFrame, savePath: String ) {
 
-//Call the right parser depending of the file extension.
-class HDFSProcessing(ext: String, path: String) {
-
-  val sc1 = new SparkContext()
-  val sqlContext = new SQLContext(sc1)
-
-  val oldFileDataFrame = sqlContext.read.format("csv").option("header", "true").load("hdfs://master1.maticapartners.com:8020/user/albert/test.csv")
+  //Create a date pattern and a new date for the processed file
   val format = new SimpleDateFormat("YYYY-MM-dd")
   val date = format.format(new java.util.Date())
 
-  val newFileDataFrame = oldFileDataFrame.withColumn("date", lit(date))
+  //We add the date column and the value of the actual day.
+  private val newFileDataFrame = oldDF.withColumn("date", lit(date))
 
-  newFileDataFrame.write.format("csv").save("hdfs://master1.maticapartners.com:8020/user/albert/test_clean.csv")
-
+  //We write the file in hdfs in the desired save path.(this is optional, we could use a val to store the dataframe).
+  // OJO: SIN CABECERA
+  newFileDataFrame.write.format("com.databricks.spark.csv").option("header","true").save(savePath)
 }

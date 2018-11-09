@@ -4,7 +4,7 @@
 		module="exclusionesdeltaproject$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181107130055"
+		publication="20181109122510"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

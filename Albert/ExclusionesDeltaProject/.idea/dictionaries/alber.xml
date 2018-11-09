@@ -1,9 +1,21 @@
 <component name="ProjectDictionaryState">
   <dictionary name="alber">
     <words>
+      <w>cabecera</w>
+      <w>databricks</w>
+      <w>dataframe</w>
+      <w>exclu</w>
+      <w>exclusiones</w>
+      <w>fecha</w>
+      <w>hbase</w>
       <w>hdfs</w>
+      <w>kakfa</w>
       <w>maticapartners</w>
+      <w>multihbase</w>
       <w>numper</w>
+      <w>readed</w>
+      <w>sqlc</w>
+      <w>tablename</w>
     </words>
   </dictionary>
 </component>
