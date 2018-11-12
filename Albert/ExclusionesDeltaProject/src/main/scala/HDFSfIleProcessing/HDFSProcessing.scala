@@ -11,7 +11,7 @@ class HDFSProcessing(sc: SparkContext, sqlc: SQLContext, oldDF: DataFrame, saveP
 
   //Create a date pattern and a new date for the processed file
   val format = new SimpleDateFormat("YYYY-MM-dd")
-  val date = format.format(new java.util.Date())
+  val date : String = format.format(new java.util.Date())
 
   //We add the date column and the value of the actual day.
   private val newFileDataFrame = oldDF.withColumn("date", lit(date))

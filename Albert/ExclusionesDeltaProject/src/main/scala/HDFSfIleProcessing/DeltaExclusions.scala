@@ -9,7 +9,12 @@ object DeltaExclusions {
     * val loadPath = "hdfs://master1.maticapartners.com:8020/user/albert/test.csv"
     * val savePath = "hdfs://master1.maticapartners.com:8020/user/albert/test_clean5.csv"
     */
-  def main(hdfsLoadPath: String, hdfsSavePath: String): Unit = {
+  //def main(hdfsLoadPath: String, hdfsSavePath: String): Unit = {
+
+  def main(args: Array[String]): Unit = {
+
+    val hdfsLoadPath = args(0)
+    val hdfsSavePath = args(1)
 
     //init spark and sql contexts.
     val sc = new SparkContext()

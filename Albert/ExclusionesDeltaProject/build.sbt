@@ -10,6 +10,11 @@ resolvers ++= Seq(
   "conjars.org" at "http://conjars.org/repo"
 )
 
+assemblyMergeStrategy in assembly := {
+  case PathList("META-INF", xs @ _*) => MergeStrategy.discard
+  case x => MergeStrategy.first
+}
+
 libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "2.6.0-cdh5.14.2" % "provided"
 libraryDependencies += "org.apache.hadoop" % "hadoop-hdfs" % "2.6.0-cdh5.14.2" % "provided"
 

@@ -2,30 +2,168 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3851c5c-dcc9-4622-b712-a25a44e26cb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/alber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/alber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ExclusionesDeltaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ExclusionesDeltaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/exclusionesdeltaproject-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/exclusionesdeltaproject-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c050acfb37709bbbc0e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c050acfb37709bbbc0e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c050acfb37709bbbc0e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1d37c8a555fe50a5238b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1d37c8a555fe50a5238b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1d37c8a555fe50a5238b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e1094461c6da5757d51$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e1094461c6da5757d51.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e1094461c6da5757d51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3999444ec09cef1c4f48$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3999444ec09cef1c4f48.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3999444ec09cef1c4f48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47367952119e383e98be$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47367952119e383e98be.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47367952119e383e98be.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49a758910ae94a3b75f1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49a758910ae94a3b75f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49a758910ae94a3b75f1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$50b246abd6a09ccf06e6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$50b246abd6a09ccf06e6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$50b246abd6a09ccf06e6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$78cfb416b43af6b60269$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$78cfb416b43af6b60269.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$78cfb416b43af6b60269.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7bc89e1eb1e65c74f777$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7bc89e1eb1e65c74f777.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7bc89e1eb1e65c74f777.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$939ab6c51d5b84a3eea6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$939ab6c51d5b84a3eea6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$939ab6c51d5b84a3eea6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7e0458875bb9ab357bc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7e0458875bb9ab357bc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7e0458875bb9ab357bc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e26e80802960f1e7584f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e26e80802960f1e7584f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e26e80802960f1e7584f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e5f3b256ca9cbde98262$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e5f3b256ca9cbde98262.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e5f3b256ca9cbde98262.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb40829c1c0d4290a1ac$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb40829c1c0d4290a1ac.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb40829c1c0d4290a1ac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/exclusionesdeltaproject-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/exclusionesdeltaproject-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/exclusionesdeltaproject-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/exclusionesdeltaproject-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-exclusionesdeltaproject-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/DeltaExclusions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/DeltaExclusions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExamples.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hdfsReader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hdfsReader.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/classes/DeltaExclusions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/classes/DeltaExclusions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/classes/hdfsReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/exclusionesdeltaproject_2.10-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/exclusionesdeltaproject_2.10-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject_2.10/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject_2.10/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject_2.10/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/default/exclusionesdeltaproject_2.10/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/exclusionesdeltaproject/exclusionesdeltaproject$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/exclusionesdeltaproject/exclusionesdeltaproject$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/exclusionesdeltaproject/exclusionesdeltaproject_2.10/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/exclusionesdeltaproject/exclusionesdeltaproject_2.10/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/org.scala-sbt.temp/temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20/1.2.4/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/org.scala-sbt.temp/temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20/1.2.4/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/default-exclusionesdeltaproject_2.10-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/exclusionesdeltaproject-exclusionesdeltaproject_2.10-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.10.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.10.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,6 +189,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="ExclusionesDeltaProject" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ExclusionesDeltaProject" type="f1a62948:ProjectNode" />
+                <item name="ExclusionesDeltaProject" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ExclusionesDeltaProject" type="f1a62948:ProjectNode" />
+                <item name="ExclusionesDeltaProject" type="2d1252cf:ModuleNode" />
+                <item name="sbt tasks" type="d9357504:SbtViewContributor$SbtTasksGroupNode" />
               </path>
             </expand>
             <select />
@@ -107,36 +256,38 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sbt" value="12" />
+          <entry key="sbt" value="16" />
+          <entry key="sbtShell" value="28" />
           <entry key="sc" value="206" />
-          <entry key="scala" value="8444" />
+          <entry key="scala" value="8568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="8650" />
-          <entry key="sbt" value="12" />
+          <entry key="Scala" value="8774" />
+          <entry key="sbt" value="16" />
+          <entry key="sbtShell" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="5" />
-          <entry key="sbt" value="1" />
+          <entry key="sbt" value="3" />
           <entry key="sc" value="6" />
-          <entry key="scala" value="33" />
+          <entry key="scala" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Scala" value="39" />
-          <entry key="sbt" value="1" />
+          <entry key="Scala" value="44" />
+          <entry key="sbt" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -146,10 +297,88 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/DeltaExclusions.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="187">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="e#28#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="e#28#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#29#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding>
+                <element signature="e#28#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="e#27#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hdfsReader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#28#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,14 +419,14 @@
         <option value="$PROJECT_DIR$/src/main/scala/Hbase.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HbaseConnect/package.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HbaseCon.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager .scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExamples.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hdfsReader.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/DeltaExclusions.scala" />
       </list>
     </option>
@@ -208,7 +437,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1939" />
     <option name="y" value="28" />
     <option name="width" value="1552" />
@@ -220,14 +449,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ExclusionesDeltaProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExclusionesDeltaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExclusionesDeltaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExclusionesDeltaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExclusionesDeltaProject" type="b2602c69:ProjectViewProjectNode" />
@@ -259,11 +491,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541771368767" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542036729017" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -355,7 +592,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="4253468295" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1773741906" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2770995524" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2125951362" />
       </map>
     </option>
@@ -380,9 +618,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1939" y="28" width="1552" height="880" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26876676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +638,7 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -409,7 +648,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="sbt" order="7" weight="0.32969433" />
+      <window_info anchor="right" id="sbt" order="7" visible="true" weight="0.32942432" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
     </layout>
   </component>
@@ -428,13 +667,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/HbaseConnect/HbaseConnectionWS.sc" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HbaseCon.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/package.scala" />
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.10/srcs/spark-sql_2.10-1.6.3-sources.jar!/org/apache/spark/sql/functions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -472,46 +704,16 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hdfsReader.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#28#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#29#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding>
-            <element signature="e#27#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#28#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/kafkaProducerExcl.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="340">
           <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="e#28#55#0" expanded="true" />
@@ -519,15 +721,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/HDFSProcessing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#29#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hbaseManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#28#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/hBaseExcluPutter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="e#27#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/HDFSfIleProcessing/DeltaExclusions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="33" />
           <folding>
             <element signature="e#28#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4586207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ExclusionesDeltaProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: aopalliance:aopalliance:1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

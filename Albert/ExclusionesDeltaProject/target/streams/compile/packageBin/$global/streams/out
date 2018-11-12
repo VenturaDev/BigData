@@ -1,9 +1,29 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\alber\IdeaProjects\ ExclusionesDeltaProject\target\scala-2.10\exclusionesdeltaproject_2.10-0.1.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\exclusionesdeltaproject_2.10-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DeltaExclusions$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\IdeaProjects\ ExclusionesDeltaProject\target\scala-2.10\classes\DeltaExclusions$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DeltaExclusions.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\IdeaProjects\ ExclusionesDeltaProject\target\scala-2.10\classes\DeltaExclusions.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	hdfsReader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\IdeaProjects\ ExclusionesDeltaProject\target\scala-2.10\classes\hdfsReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\DeltaExclusions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\DeltaExclusions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hbaseManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hbaseManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hBaseExcluPutter$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hBaseExcluPutter$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hBaseExcluPutter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hBaseExcluPutter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hBaseExcluPutter$$anonfun$insertLines$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hBaseExcluPutter$$anonfun$insertLines$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\HDFSProcessing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\HDFSProcessing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hBaseExcluPutter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hBaseExcluPutter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hbaseManager$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hbaseManager$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\KafkaMgrProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\KafkaMgrProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\HDFSReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\HDFSReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\DeltaExclusions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\DeltaExclusions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HDFSfIleProcessing\hBaseExcluPutter$$anonfun$insertLines$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\alber\GitRepos\BigData\Albert\ExclusionesDeltaProject\target\scala-2.10\classes\HDFSfIleProcessing\hBaseExcluPutter$$anonfun$insertLines$1$$anonfun$apply$2.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
